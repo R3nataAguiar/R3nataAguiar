@@ -9,8 +9,8 @@
 
   
   <div align="center">
-  <a href="https://github.com/R3nataAguiar"><img height="100em" src="https://github-readme-stats.vercel.app/api?username=R3nataAguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nataAguiar&layout=compact&langs_count=16&theme=synthwave"/>
+  <a href="https://github.com/R3nataAguiar"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=R3nataAguiar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nataAguiar&layout=compact&langs_count=16&theme=synthwave"/>
        
   
    ## <div align="center"> Learning
